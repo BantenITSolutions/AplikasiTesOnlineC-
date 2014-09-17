@@ -1,0 +1,5 @@
+Langkah-Langkah Instalasi Aplikasi Tes Online.
+
+1. Atur koneksi ke database, sesuai dengan konfigurasi mysql yang terinstal pada komputer anda masing-masing
+2. Buat database dengan nama tesonline dan import file database yang berbentuk file .sql dengan nama tesonline.sql
+3. Copy folder foto_user ke drive D:/

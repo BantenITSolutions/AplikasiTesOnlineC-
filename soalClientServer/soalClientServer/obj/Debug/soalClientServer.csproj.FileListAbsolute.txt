@@ -1,0 +1,27 @@
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\bin\Debug\soalClientServer.exe
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\bin\Debug\soalClientServer.pdb
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.MainForm.resources
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.csproj.GenerateResource.Cache
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.exe
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.pdb
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.PanelUtama.resources
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\bin\Debug\soalClientServer.exe
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\bin\Debug\soalClientServer.pdb
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.MainForm.resources
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.PanelUtama.resources
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.csproj.GenerateResource.Cache
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.exe
+C:\Users\Suma Wijaya\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.pdb
+C:\Users\LUMBUNG\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.TesSoal.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\bin\Debug\soalClientServer.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\bin\Debug\soalClientServer.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.MainForm.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.PanelUtama.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.TesSoal.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.csproj.GenerateResource.Cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\soalClientServer\soalClientServer\obj\Debug\soalClientServer.bacaDetailPesan.resources

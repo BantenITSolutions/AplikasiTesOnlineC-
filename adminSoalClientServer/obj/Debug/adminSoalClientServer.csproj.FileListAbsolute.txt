@@ -1,0 +1,14 @@
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\bin\Debug\adminSoalClientServer.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\bin\Debug\adminSoalClientServer.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.MainForm.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.csproj.GenerateResource.Cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.PanelAdmin.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.tambahSoal.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.editKatMatPel.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.editSiswa.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.lihatKumpulanSoal.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.editPerSoal.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\adminSoalClientServer\obj\Debug\adminSoalClientServer.bacaDetailPesan.resources
